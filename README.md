@@ -1,3 +1,3 @@
 # hello-world
-trialers
+trialers $2
 # finished
